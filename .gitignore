@@ -1,0 +1,11 @@
+# WebStorm files
+.idea/
+# npm
+node_modules/
+# various
+/*.wav
+.DS_Store
+/*.env
+# BrowserStack
+local.log
+browserstack.err

@@ -1,0 +1,17 @@
+{
+  "name": "text-to-speech",
+  "version": "0.1.0",
+  "description": "Converts given text or file to audio file(s) using Google Cloud Text-to-Speech",
+  "author": "Emre Piskin <piskin.emre@gmail.com>",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.0",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
